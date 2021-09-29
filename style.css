@@ -24,7 +24,7 @@ h1 {
   margin: 100px auto 15px auto;
   background-color: rgb(188,236,224);
   color: white;
-  border-color:0 ;
+  border-color:white ;
 
 blockquote {
 float: right;
@@ -93,39 +93,3 @@ li>div{
 .scroll{
   overflow:hidden;
   overflow-y: scroll;}
-
-
-
-
-
-
-/*@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-
-body {
-
-font-family: 'Bebas Neue', sans-serif;
-background-color:rgb(236,200,188) ;
-}
-h1 {
-  font-size: 50px;
-}
-
-
-
-.header {
-
-border: 20px solid;
-text-align: center;
-border-radius: 5px;
-max-width: 2500px;
-max-height: 2500000px;
-padding:25px;
-margin: 100px auto 15px auto;
-background-color: white;
-color: pink;
-border-color: rgb(188,236,224) ;
-
-
-
-/*font-family: 'Birthstone', cursive;
-font-family: 'Pacifico', cursive;
