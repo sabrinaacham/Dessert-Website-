@@ -1,0 +1,131 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
+body {
+font-family: 'Pacifico', cursive;
+font-family: 'Birthstone', cursive;
+
+background-color:pink;
+}
+
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+}
+
+.header {
+  border: 20px solid;
+  text-align: center;
+  border-radius: 5px;
+  max-width: 2500px;
+  max-height: 2500000px;
+  padding:25px;
+  margin: 100px auto 15px auto;
+  background-color: rgb(188,236,224);
+  color: white;
+  border-color:0 ;
+
+blockquote {
+float: right;
+width: 275px;
+font-size: 130%;
+font-style: cursive;
+font-family: 'Birthstone', cursive;
+color: white;
+margin: 0px 0px 10px 10px;
+padding: 10px;
+border-top: 1px solid color:white;
+border-bottom: 1px solid color:white;
+}
+
+img.align-left {
+float: left;
+margin-right: 10px;}
+img.large {
+width: 500px;
+height: 500px;}
+
+.column1of3, .column2of3, .column3of3 {
+width: 300px;
+float: left;
+margin: 10px;}
+
+ol>div{
+   line-height: 1.5em;}
+
+li>div{
+  margin: 10px 0px 0px 0px;}
+
+  p.one {
+    font-style: cursive;
+    font-family: 'Birthstone', cursive;
+    border-width: 2px;
+    border-color: #white;}
+  p.two {
+    font-style: cursive;
+    font-family: 'Birthstone', cursive;
+    border-width: 2px;
+    border-color: #white;}
+  p.three {
+    font-style: cursive;
+    font-family: 'Birthstone', cursive;
+    border-width: 2px;
+    border-color: #white;}
+  p.four {
+    font-style: cursive;
+    font-family: 'Birthstone', cursive;
+    border-width: 2px;
+    border-color: #white;}
+
+    .serving{
+      font-style: cursive;
+      font-family: 'Birthstone', cursive;
+      font-weight:bold;}
+
+#Instructions{
+  height= 10px;
+  position: sticky;
+  top= 0;}
+
+
+
+.scroll{
+  overflow:hidden;
+  overflow-y: scroll;}
+
+
+
+
+
+
+/*@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+
+font-family: 'Bebas Neue', sans-serif;
+background-color:rgb(236,200,188) ;
+}
+h1 {
+  font-size: 50px;
+}
+
+
+
+.header {
+
+border: 20px solid;
+text-align: center;
+border-radius: 5px;
+max-width: 2500px;
+max-height: 2500000px;
+padding:25px;
+margin: 100px auto 15px auto;
+background-color: white;
+color: pink;
+border-color: rgb(188,236,224) ;
+
+
+
+/*font-family: 'Birthstone', cursive;
+font-family: 'Pacifico', cursive;
