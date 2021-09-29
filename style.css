@@ -81,10 +81,10 @@ li>div{
       font-family: 'Birthstone', cursive;
       font-weight:bold;}
 
-#Instructions{
-  height= 10px;
+#instructions {
+  height: 10px;
   position: sticky;
-  top= 0;}
+  top: 0;}
 
 
 
