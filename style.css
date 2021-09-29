@@ -30,7 +30,6 @@ blockquote {
 float: right;
 width: 275px;
 font-size: 130%;
-font-style: italic;
 font-family: 'Birthstone', cursive;
 color: white;
 margin: 0px 0px 10px 10px;
@@ -60,25 +59,25 @@ li>div{
   p.one {
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: #white;}
+    border-color: white;}
   p.two {
-    font-style: cursive;
+
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: #white;}
+    border-color: white;}
   p.three {
-    font-style: cursive;
+
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: #white;}
+    border-color: white;}
   p.four {
-    font-style: cursive;
+
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: #white;}
+    border-color: white;}
 
     .serving{
-      font-style: cursive;
+
       font-family: 'Birthstone', cursive;
       font-weight:bold;}
 
