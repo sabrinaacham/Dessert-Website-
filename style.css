@@ -30,13 +30,13 @@ blockquote {
 float: right;
 width: 275px;
 font-size: 130%;
-font-style: cursive;
+font-style: italic;
 font-family: 'Birthstone', cursive;
 color: white;
 margin: 0px 0px 10px 10px;
 padding: 10px;
-border-top: 1px solid color:white;
-border-bottom: 1px solid color:white;
+border-top: 1px solid white;
+border-bottom: 1px solid white;
 }
 
 img.align-left {
@@ -58,7 +58,6 @@ li>div{
   margin: 10px 0px 0px 0px;}
 
   p.one {
-    font-style: cursive;
     font-family: 'Birthstone', cursive;
     border-width: 2px;
     border-color: #white;}
