@@ -35,7 +35,8 @@ h1 {
 
   .quote {
     border: 10px solid;
-    text-align: center;
+
+    text-align: center,top;
     color: white;
     font-size: 140px;
     padding:25px;
