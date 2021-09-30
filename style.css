@@ -65,17 +65,20 @@ li>div{
   p.two {
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: white;}
+    border-color: white;
+    border-style: solid;}
   p.three {
 
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: white;}
+    border-color: white;
+    border-style: solid;}
   p.four {
 
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: white;}
+    border-color: white;
+    border-style: solid;}
 
     .serving{
 
