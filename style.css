@@ -106,20 +106,13 @@ li{
   top: 0;
   }
 
-.container{
-  border:10px;
-  width:20%;
-  height:20%;
-  padding:20px;
-  top:50%;
-  left:50%;
-  position:absolute;
-  transform:translate (-50%,-50%);
-  border-image: url(scissors.png)10% round; 
+.scissors {
+  -moz-border-image: url("images/scissors.png")
+11 11 11 11 stretch;
 }
 
 
-.scroll{
+.scroll {
   overflow:hidden;
   overflow-y: scroll;}
 
