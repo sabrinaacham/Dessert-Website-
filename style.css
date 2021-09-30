@@ -60,7 +60,7 @@ width: 500px;
 height: 500px;}
 
 .column1of3, .column2of3, .column3of3 {
-width: 500px;
+width: 400px;
 float: left;
 margin: 10px;}
 
