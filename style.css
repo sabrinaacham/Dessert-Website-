@@ -38,6 +38,7 @@ h1 {
 
     color: white;
     font-size: 140px;
+    text-align: center;
     padding:25px;
     margin:100px auto 15px auto;
     background-color: rgb(188,236,224);
@@ -45,7 +46,7 @@ h1 {
     border-color:white ;}
   }
 
-text-align: center;
+
 
 
 img.align-left {
