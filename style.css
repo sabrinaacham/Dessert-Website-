@@ -59,7 +59,9 @@ li>div{
   p.one {
     font-family: 'Birthstone', cursive;
     border-width: 2px;
-    border-color: white;}
+    border-color: black;
+    border-style: solid; 
+  }
   p.two {
 
     font-family: 'Birthstone', cursive;
