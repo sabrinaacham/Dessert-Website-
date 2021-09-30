@@ -58,10 +58,10 @@ height: 500px;}
 
 .column1of3, .column2of3, .column3of3 {
   color: white;
-  font-size: 140px;
+  font-size: 10px;
   text-align: center;
   padding:25px;
-  margin:100px auto 15px auto;
+  margin:10px auto 10px auto;
   background-color: rgb(188,236,224);
   color: white;
   border-color:white ;}
