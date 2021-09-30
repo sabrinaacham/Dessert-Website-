@@ -57,9 +57,19 @@ width: 500px;
 height: 500px;}
 
 .column1of3, .column2of3, .column3of3 {
-width: 400px;
+  color: white;
+  font-size: 140px;
+  text-align: center;
+  padding:25px;
+  margin:100px auto 15px auto;
+  background-color: rgb(188,236,224);
+  color: white;
+  border-color:white ;}
+  width: 400px;
 float: left;
 margin: 5px;}
+
+
 
 
 
