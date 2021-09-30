@@ -27,13 +27,13 @@ h1 {
   border-color:white ;}
 
   .header2 {
-    border-width: 2px;
+    border-width: 5px;
     border-color: white;
     border-style: solid;
   }
 
   .header4 {
-    border-width: 2px;
+    border-width: 5px;
     border-color: white;
     border-style: solid;
   }
@@ -98,12 +98,13 @@ li>div{
       font-weight:bold;}
 
 #instructions {
+  border-width: 2px;
+  border-color: white;
+  border-style: solid;
   height: 10px;
   position: sticky;
   top: 0;
-  border-width: 2px;
-  border-color: white;
-  border-style: solid;}
+  }
 
 
 
