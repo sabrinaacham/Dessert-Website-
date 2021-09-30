@@ -64,10 +64,13 @@ width: 400px;
 float: left;
 margin: 5px;}
 
-ol>div{
+
+
+
+ol{
    line-height: 1.5em;}
 
-li>div{
+li{
   margin: 10px 0px 0px 0px;}
 
   p.one {
