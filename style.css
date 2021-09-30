@@ -35,7 +35,7 @@ h1 {
 
   .quote {
     border: 10px solid;
-    text-align: center;
+
     color: white;
     font-size: 140px;
     padding:25px;
@@ -44,6 +44,8 @@ h1 {
     color: white;
     border-color:white ;}
   }
+
+text-align: center;
 
 
 img.align-left {
