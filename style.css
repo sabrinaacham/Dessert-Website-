@@ -39,12 +39,12 @@ h1 {
     color: white;
     font-size: 140px;
     padding:25px;
-    margin: 100px auto 15px auto;
+    margin: right;
     background-color: rgb(188,236,224);
     color: white;
     border-color:white ;}
   }
-
+100px auto 15px auto;
 
 img.align-left {
 float: left;
