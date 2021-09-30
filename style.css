@@ -26,6 +26,10 @@ h1 {
   color: white;
   border-color:white ;}
 
+  .quote {
+    font-size: 40px;
+  }
+
 
 
 blockquote {
