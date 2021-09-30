@@ -26,6 +26,13 @@ h1 {
   color: white;
   border-color:white ;}
 
+  .header2 {
+    text-align: center;}
+
+  .header4 {
+    text-align: center;
+  }
+
   .quote {
     border: 10px solid;
     text-align: center;
@@ -94,6 +101,7 @@ li{
       font-weight:bold;}
 
 #instructions {
+  text-align: center;
   height: 10px;
   position: sticky;
   top: 0;
