@@ -26,6 +26,18 @@ h1 {
   color: white;
   border-color:white ;}
 
+  .header2 {
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+  }
+
+  .header4 {
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+  }
+
 blockquote {
 float: right;
 width: 350px;
@@ -88,7 +100,10 @@ li>div{
 #instructions {
   height: 10px;
   position: sticky;
-  top: 0;}
+  top: 0;
+  border-width: 2px;
+  border-color: white;
+  border-style: solid;}
 
 
 
