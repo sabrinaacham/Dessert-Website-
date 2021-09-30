@@ -27,6 +27,7 @@ h1 {
   border-color:white ;}
 
   .quote {
+    text-align: center;
     color: white;
     font-size: 140px;
   }
