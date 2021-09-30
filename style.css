@@ -37,14 +37,14 @@ h1 {
     border: 10px solid;
     text-align: center;
     color: white;
-    font-size: 140px;
+    font-size: 50px;
     padding:25px;
-    margin: right;
+    margin:100px auto 15px auto;
     background-color: rgb(188,236,224);
     color: white;
     border-color:white ;}
   }
-100px auto 15px auto;
+
 
 img.align-left {
 float: left;
