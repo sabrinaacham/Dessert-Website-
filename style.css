@@ -62,7 +62,7 @@ height: 500px;}
 .column1of3, .column2of3, .column3of3 {
 width: 400px;
 float: left;
-margin: 10px;}
+margin: 100px;}
 
 ol>div{
    line-height: 1.5em;}
