@@ -26,17 +26,7 @@ h1 {
   color: white;
   border-color:white ;}
 
-  .header2 {
-    border-width: 5px;
-    border-color: white;
-    border-style: solid;
-  }
 
-  .header4 {
-    border-width: 5px;
-    border-color: white;
-    border-style: solid;
-  }
 
 blockquote {
 float: right;
@@ -98,9 +88,6 @@ li>div{
       font-weight:bold;}
 
 #instructions {
-  border-width: 2px;
-  border-color: white;
-  border-style: solid;
   height: 10px;
   position: sticky;
   top: 0;
@@ -111,3 +98,17 @@ li>div{
 .scroll{
   overflow:hidden;
   overflow-y: scroll;}
+
+
+
+  /*.header2 {
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+  }
+
+  .header4 {
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+  }
